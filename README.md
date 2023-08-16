@@ -49,4 +49,10 @@ jupyter-lab --ip 10.10.10.X  (Where X is the last two digits that you observed b
 17.	In the preceding screen you will be asked for a token. This can be found in the first powershell instance on the 6th last line.
 
 For Video Tutorial Visit - https://youtu.be/PhzlMQ8-GE4 
-Git Clone: git clone https://github.com/shriramkv/oneAPI_Essentials.git 
+Git Clone: git clone https://github.com/oneapi-src/oneAPI-samples.git
+
+**SYCL Learning**
+One can learn the fundamental SYCL with the help of the available tutorials after cloning from the above presented link. 
+The Path for SYCL Foundation - DirectProgramming/C++SYCL/Jupyter/oneapi-essentials-training 
+
+
